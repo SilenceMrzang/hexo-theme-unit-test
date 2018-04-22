@@ -63,9 +63,21 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: aath
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+favicon: /favicon.ico
+
+disqus_shortname: lewis-blog
+
+search: true
+avatar: http://olnzpdi2u.bkt.clouddn.com/avatar.jpg
+aside-description: aside-description
+links:
+  百度: https://www.baidu.com/
+  谷歌: https://www.google.com/
+  知乎: https://www.zhihu.com/

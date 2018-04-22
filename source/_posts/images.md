@@ -1,5 +1,7 @@
 title: Images
 date: 2013-12-26 22:46:49
+img: /assets/wallpaper-878514.jpg
+
 ---
 
 This is a image test post.
